@@ -1091,7 +1091,7 @@ div#preloader {
 /* 7.Choose Area
 /*--------------------------------*/
 .choose-area {
-    background-image: url(img/background/bg1.jpg);
+    background-image: url(img/background/media-back.png);
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
