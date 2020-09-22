@@ -1322,7 +1322,7 @@ div#preloader {
 /*  10.product-add
 /*----------------------------------------*/
 .product-add {
-    background: rgba(0,0,0,0.80) url(img/background/bg1.jpg) no-repeat scroll center center / cover; 
+    background: rgba(0,0,0,0.80) url(img/background/bac-image-2.png) no-repeat scroll center center / cover; 
     display: block;
     overflow: hidden;
 	position: relative;
@@ -1519,7 +1519,7 @@ div#preloader {
 /*  12. Footer Area
 /*----------------------------------------*/
 .footer-1{
-	background: url(img/background/bg1.jpg);
+	background: url(img/background/bac-image-2.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: bottom center;
