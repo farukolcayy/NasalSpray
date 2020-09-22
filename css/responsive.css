@@ -73,6 +73,14 @@
     font-size: 13px;
     padding: 30px 7px;
 }
+/* OMER*/
+.responsive1{
+    width: 49%;
+}
+.responsive2{
+    width: 100%;
+}
+/*OMER*/
 .logo a {
     width: 55%;
     margin-top: 25px;
@@ -139,7 +147,7 @@
 }
 .header-area .main-menu ul.navbar-nav li a, 
 .header-area.stick .main-menu ul.navbar-nav li a {
-    font-size: 13px;
+    font-size: 12px;
     padding: 8px 10px;
 }
 .contact-icon {
@@ -424,7 +432,7 @@
 .contact-button a {
     margin-bottom: 15px;
     margin-right: 10px;
-    font-size: 18px;
+    font-size: 14px;
     width: 160px;
 }	
 .well-services {
